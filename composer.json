@@ -1,6 +1,6 @@
 {
     "name": "philsweb/cakephp-localized-fork",
-    "description": "CakePHP Localized Plugin",
+    "description": "CakePHP Localized Plugin fork by Philsweb",
     "type": "cakephp-plugin",
     "keywords": ["cakephp", "localized", "i18n", "l10n"],
     "homepage": "https://github.com/cakephp/localized",
