@@ -27,7 +27,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Cake\\Localized\\": "src"
+            "Philsweb\\Localized\\": "src"
         }
     },
     "autoload-dev": {

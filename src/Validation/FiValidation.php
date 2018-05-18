@@ -14,8 +14,9 @@
  * @license       http://www.opensource.org/licenses/mit-license.php MIT License
  */
 
-namespace Cake\Localized\Validation;
+namespace Philsweb\Localized\Validation;
 
+use Cake\Localized\Validation\LocalizedValidation;
 use Cake\Network\Exception\NotImplementedException;
 
 /**

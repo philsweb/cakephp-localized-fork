@@ -16,7 +16,6 @@
 
 namespace Cake\Localized\Test\TestCase\Validation;
 
-use Cake\Localized\Validation\FiValidation;
 use Cake\TestSuite\TestCase;
 
 /**
